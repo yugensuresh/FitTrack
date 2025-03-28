@@ -1,0 +1,14 @@
+/* You can add your custom styles here */
+.app-container {
+  background-color: #f8f9fa;
+}
+
+/* Add some spacing for the content area */
+main {
+  min-height: 80vh;
+}
+
+/* Ensure footer stays at bottom */
+.footer {
+  margin-top: auto;
+}
